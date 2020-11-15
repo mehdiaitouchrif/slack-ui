@@ -1,0 +1,48 @@
+.primary-heading {
+    font-size: 6.25rem;
+    line-height: 1;
+
+    @media (max-width: 500px) {
+        font-size: 5rem;
+    }
+}
+
+.secondary-heading {
+    font-size: 5rem;
+    line-height: 1.2;
+}
+
+
+.tertiary-heading {
+    font-size: 4.5rem;
+    line-height: 1.2;
+
+    @media (max-width: 500px) {
+        font-size: 3rem;
+    }
+}
+
+.quote {
+    font-family: 'Courgette', cursive;
+}
+
+.lead {
+    font-size: 1.8rem;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+        &--half {
+            padding-right: 30%;
+        }
+    }
+
+    @media (max-width: 500px) {
+        &--half {
+            padding-right: 0;
+        }
+    }
+}
+
+.text-center {
+    text-align: center;
+}
