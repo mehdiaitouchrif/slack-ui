@@ -1,2 +1,4 @@
 # Slack UI Clone
-Slack Wesbite UI Clone. Uses HTML5 CSS3 with Sass and Vanilla JavaScript.
+Slack homepage clone with HTML, CSS and JavaScript.
+
+[Check it out](https://mehdiaitouchrif.github.io/slack-ui/)
